@@ -1,0 +1,169 @@
+,Inns,Score,Opposition,FoW,MatchID,Prev1,Prev2,Prev3
+0,1,54,Sri Lanka,-  ,/ci/engine/match/366341.html,25,37,12
+1,2,31,Sri Lanka,-  ,/ci/engine/match/343736.html,54,25,37
+2,1,2,Sri Lanka,5/302 (48.3)  ,/ci/engine/match/403383.html,31,54,25
+3,2,16,Pakistan,2/90 (13.5)  ,/ci/engine/match/415278.html,2,31,54
+4,2,79,West Indies,2/12 (3.2)  ,/ci/engine/match/415284.html,16,2,31
+5,2,30,Australia,2/45 (8.1)  ,/ci/engine/match/416236.html,79,16,2
+6,2,10,Australia,1/40 (6.5)  ,/ci/engine/match/416239.html,30,79,16
+7,1,27,Sri Lanka,5/347 (42.1)  ,/ci/engine/match/430886.html,10,30,79
+8,1,54,Sri Lanka,2/19 (4.1)  ,/ci/engine/match/430887.html,27,10,30
+9,2,107,Sri Lanka,2/23 (3.4)  ,/ci/engine/match/430889.html,54,27,10
+10,1,9,Sri Lanka,1/14 (2.6)  ,/ci/engine/match/434259.html,107,54,27
+11,2,91,Bangladesh,1/28 (3.1)  ,/ci/engine/match/434260.html,9,107,54
+12,2,71,Sri Lanka,1/89 (11.3)  ,/ci/engine/match/434262.html,91,9,107
+13,2,102,Bangladesh,1/64 (11.5)  ,/ci/engine/match/434263.html,71,91,9
+14,1,2,Sri Lanka,1/1 (0.3)  ,/ci/engine/match/434264.html,102,71,91
+15,1,31,South Africa,3/116 (18.2)  ,/ci/engine/match/441827.html,2,102,71
+16,2,57,South Africa,1/22 (2.6)  ,/ci/engine/match/441829.html,31,2,102
+17,1,0,Zimbabwe,1/56 (8.6)  ,/ci/engine/match/452146.html,57,31,2
+18,2,82,Sri Lanka,1/28 (6.4)  ,/ci/engine/match/452147.html,0,57,31
+19,1,18,Zimbabwe,1/58 (16.1)  ,/ci/engine/match/452149.html,82,0,57
+20,1,68,Sri Lanka,1/7 (2.6)  ,/ci/engine/match/452150.html,18,82,0
+21,2,11,Bangladesh,1/37 (6.1)  ,/ci/engine/match/455232.html,68,18,82
+22,2,18,Pakistan,1/47 (10.2)  ,/ci/engine/match/455234.html,11,68,18
+23,1,10,Sri Lanka,1/58 (11.2)  ,/ci/engine/match/455236.html,18,11,68
+24,1,28,Sri Lanka,1/38 (6.1)  ,/ci/engine/match/455237.html,10,18,11
+25,2,0,Sri Lanka,1/30 (8.5)  ,/ci/engine/match/456663.html,28,10,18
+26,1,8,New Zealand,1/0 (0.3)  ,/ci/engine/match/456665.html,0,28,10
+27,2,37,Sri Lanka,1/9 (0.6)  ,/ci/engine/match/456668.html,8,0,28
+28,2,118,Australia,1/0 (0.2)  ,/ci/engine/match/464529.html,37,8,0
+29,1,105,New Zealand,1/44 (7.1)  ,/ci/engine/match/467883.html,118,37,8
+30,2,64,New Zealand,1/87 (17.4)  ,/ci/engine/match/467884.html,105,118,37
+31,2,63,New Zealand,1/115 (18.4)  ,/ci/engine/match/467885.html,64,105,118
+32,2,0,New Zealand,1/67 (9.4)  ,/ci/engine/match/467886.html,63,64,105
+33,2,2,New Zealand,1/0 (0.3)  ,/ci/engine/match/467887.html,0,63,64
+34,2,54,South Africa,1/3 (0.4)  ,/ci/engine/match/463150.html,2,0,63
+35,1,22,South Africa,1/21 (7.6)  ,/ci/engine/match/463151.html,54,2,0
+36,2,28,South Africa,1/4 (2.2)  ,/ci/engine/match/463152.html,22,54,2
+37,2,87,South Africa,1/1 (1.3)  ,/ci/engine/match/463153.html,28,22,54
+38,2,2,South Africa,1/21 (3.6)  ,/ci/engine/match/463154.html,87,28,22
+39,1,100,Bangladesh,2/152 (23.2)  ,/ci/engine/match/433558.html,2,87,28
+40,1,8,England,5/305 (46.1)  ,/ci/engine/match/433568.html,100,2,87
+41,2,34,Ireland,2/24 (5.2)  ,/ci/engine/match/433578.html,8,100,2
+42,2,12,Netherlands,3/82 (9.5)  ,/ci/engine/match/433582.html,34,8,100
+43,1,1,South Africa,5/283 (42.6)  ,/ci/engine/match/433586.html,12,34,8
+44,1,59,West Indies,1/8 (0.6)  ,/ci/engine/match/433599.html,1,12,34
+45,2,24,Australia,2/94 (18.1)  ,/ci/engine/match/433601.html,59,1,12
+46,1,9,Pakistan,2/116 (18.5)  ,/ci/engine/match/433605.html,24,59,1
+47,2,35,Sri Lanka,2/31 (6.1)  ,/ci/engine/match/433606.html,9,24,59
+48,2,2,West Indies,1/29 (5.2)  ,/ci/engine/match/489221.html,35,9,24
+49,2,81,West Indies,1/8 (2.1)  ,/ci/engine/match/489222.html,2,35,9
+50,2,0,West Indies,1/26 (7.3)  ,/ci/engine/match/489223.html,81,2,35
+51,2,22,West Indies,1/20 (5.4)  ,/ci/engine/match/489224.html,0,81,2
+52,1,94,West Indies,1/15 (3.4)  ,/ci/engine/match/489225.html,22,0,81
+53,1,55,England,2/87 (17.4)  ,/ci/engine/match/474477.html,94,22,0
+54,1,9,England,2/109 (14.2)  ,/ci/engine/match/474478.html,55,94,22
+55,1,7,England,2/9 (5.2)  ,/ci/engine/match/474479.html,9,55,94
+56,1,16,England,2/70 (15.2)  ,/ci/engine/match/474480.html,7,9,55
+57,1,107,England,2/57 (15.2)  ,/ci/engine/match/474481.html,16,7,9
+58,1,37,England,2/52 (11.4)  ,/ci/engine/match/521218.html,107,16,7
+59,2,112,England,2/29 (6.5)  ,/ci/engine/match/521219.html,37,107,16
+60,2,35,England,2/190 (33.2)  ,/ci/engine/match/521220.html,112,37,107
+61,2,86,England,2/21 (7.4)  ,/ci/engine/match/521221.html,35,112,37
+62,1,0,England,1/80 (17.1)  ,/ci/engine/match/521222.html,86,35,112
+63,2,3,West Indies,2/41 (4.4)  ,/ci/engine/match/536929.html,0,86,35
+64,2,117,West Indies,2/29 (6.4)  ,/ci/engine/match/536930.html,3,0,86
+65,2,20,West Indies,2/8 (1.2)  ,/ci/engine/match/536931.html,117,3,0
+66,1,23,West Indies,4/376 (46.3)  ,/ci/engine/match/536932.html,20,117,3
+67,1,80,West Indies,3/84 (18.6)  ,/ci/engine/match/536933.html,23,20,117
+68,2,31,Australia,1/9 (1.5)  ,/ci/engine/match/518956.html,80,23,20
+69,2,77,Sri Lanka,1/14 (2.3)  ,/ci/engine/match/518957.html,31,80,23
+70,2,18,Australia,1/52 (9.1)  ,/ci/engine/match/518959.html,77,31,80
+71,2,15,Sri Lanka,1/24 (5.6)  ,/ci/engine/match/518960.html,18,77,31
+72,2,12,Australia,1/8 (1.3)  ,/ci/engine/match/518962.html,15,18,77
+73,2,66,Sri Lanka,2/38 (7.5)  ,/ci/engine/match/518963.html,12,15,18
+74,2,21,Australia,2/35 (6.6)  ,/ci/engine/match/518965.html,66,12,15
+75,2,133,Sri Lanka,2/86 (9.2)  ,/ci/engine/match/518966.html,21,66,12
+76,1,108,Sri Lanka,1/19 (5.3)  ,/ci/engine/match/535795.html,133,21,66
+77,1,66,Bangladesh,1/25 (5.5)  ,/ci/engine/match/535797.html,108,133,21
+78,2,183,Pakistan,1/0 (0.2)  ,/ci/engine/match/535798.html,66,108,133
+79,1,106,Sri Lanka,1/7 (2.2)  ,/ci/engine/match/564781.html,183,66,108
+80,1,1,Sri Lanka,1/31 (3.6)  ,/ci/engine/match/564782.html,106,183,66
+81,2,38,Sri Lanka,1/8 (1.4)  ,/ci/engine/match/564783.html,1,106,183
+82,2,128,Sri Lanka,1/0 (0.5)  ,/ci/engine/match/564784.html,38,1,106
+83,1,23,Sri Lanka,1/29 (5.1)  ,/ci/engine/match/564785.html,128,38,1
+84,1,0,Pakistan,1/17 (3.5)  ,/ci/engine/match/589308.html,23,128,38
+85,2,6,Pakistan,1/42 (9.5)  ,/ci/engine/match/589309.html,0,23,128
+86,1,7,Pakistan,1/19 (4.3)  ,/ci/engine/match/589310.html,6,0,23
+87,2,15,England,1/96 (16.4)  ,/ci/engine/match/565812.html,7,6,0
+88,1,37,England,1/18 (3.6)  ,/ci/engine/match/565813.html,15,7,6
+89,2,77,England,1/11 (2.5)  ,/ci/engine/match/565814.html,37,15,7
+90,2,26,England,1/20 (5.3)  ,/ci/engine/match/565815.html,77,37,15
+91,1,0,England,1/13 (3.3)  ,/ci/engine/match/565816.html,26,77,37
+92,1,31,South Africa,1/127 (21.2)  ,/ci/engine/match/578614.html,0,26,77
+93,2,22,West Indies,1/101 (15.3)  ,/ci/engine/match/578619.html,31,0,26
+94,2,22,Pakistan,1/58 (10.4)  ,/ci/engine/match/578623.html,22,31,0
+95,2,58,Sri Lanka,1/77 (16.6)  ,/ci/engine/match/566947.html,22,22,31
+96,1,43,England,1/19 (3.5)  ,/ci/engine/match/566948.html,58,22,22
+97,1,11,West Indies,1/25 (4.2)  ,/ci/engine/match/597924.html,43,58,22
+98,2,2,Sri Lanka,2/52 (14.3)  ,/ci/engine/match/597925.html,11,43,58
+99,1,102,West Indies,1/123 (23.1)  ,/ci/engine/match/597926.html,2,11,43
+100,1,31,Sri Lanka,1/27 (6.2)  ,/ci/engine/match/597928.html,102,2,11
+101,2,2,Sri Lanka,1/23 (8.4)  ,/ci/engine/match/597929.html,31,102,2
+102,2,115,Zimbabwe,1/26 (6.3)  ,/ci/engine/match/643665.html,2,31,102
+103,1,14,Zimbabwe,1/2 (1.1)  ,/ci/engine/match/643667.html,115,2,31
+104,2,68,Zimbabwe,1/27 (5.5)  ,/ci/engine/match/643669.html,14,115,2
+105,2,61,Australia,1/26 (6.2)  ,/ci/engine/match/647249.html,68,14,115
+106,2,100,Australia,1/176 (26.1)  ,/ci/engine/match/647251.html,61,68,14
+107,1,68,Australia,1/14 (1.6)  ,/ci/engine/match/647253.html,100,61,68
+108,2,115,Australia,1/178 (29.3)  ,/ci/engine/match/647259.html,68,100,61
+109,1,0,Australia,1/112 (18.6)  ,/ci/engine/match/647261.html,115,68,100
+110,2,86,West Indies,1/17 (3.2)  ,/ci/engine/match/676529.html,0,115,68
+111,1,99,West Indies,1/21 (4.5)  ,/ci/engine/match/676531.html,86,0,115
+112,2,19,West Indies,1/29 (4.2)  ,/ci/engine/match/676533.html,99,86,0
+113,2,31,South Africa,1/14 (5.1)  ,/ci/engine/match/648651.html,19,99,86
+114,2,0,South Africa,1/10 (2.2)  ,/ci/engine/match/648653.html,31,19,99
+115,2,123,New Zealand,1/15 (5.2)  ,/ci/engine/match/667641.html,0,31,19
+116,2,78,New Zealand,1/22 (7.4)  ,/ci/engine/match/667643.html,123,0,31
+117,2,6,New Zealand,1/64 (9.2)  ,/ci/engine/match/667645.html,78,123,0
+118,1,2,New Zealand,-  ,/ci/engine/match/667647.html,6,78,123
+119,2,82,New Zealand,1/8 (4.3)  ,/ci/engine/match/667649.html,2,6,78
+120,2,136,Bangladesh,1/50 (11.2)  ,/ci/engine/match/710293.html,82,2,6
+121,1,48,Sri Lanka,1/33 (9.2)  ,/ci/engine/match/710297.html,136,82,2
+122,1,5,Pakistan,1/18 (2.6)  ,/ci/engine/match/710301.html,48,136,82
+123,1,0,England,1/19 (7.1)  ,/ci/engine/match/667723.html,5,48,136
+124,2,40,England,1/35 (7.2)  ,/ci/engine/match/667725.html,0,5,48
+125,2,1,England,1/183 (28.4)  ,/ci/engine/match/667727.html,40,0,5
+126,2,13,England,1/0 (0.3)  ,/ci/engine/match/667729.html,1,40,0
+127,2,2,West Indies,1/49 (8.4)  ,/ci/engine/match/770121.html,13,1,40
+128,1,62,West Indies,2/50 (12.5)  ,/ci/engine/match/770123.html,2,13,1
+129,1,127,West Indies,1/70 (11.3)  ,/ci/engine/match/770127.html,62,2,13
+130,1,22,Sri Lanka,2/247 (37.5)  ,/ci/engine/match/792289.html,127,62,2
+131,2,49,Sri Lanka,2/140 (26.4)  ,/ci/engine/match/792291.html,22,127,62
+132,2,53,Sri Lanka,2/131 (24.3)  ,/ci/engine/match/792293.html,49,22,127
+133,1,66,Sri Lanka,2/59 (12.6)  ,/ci/engine/match/792295.html,53,49,22
+134,2,139,Sri Lanka,2/14 (4.3)  ,/ci/engine/match/792297.html,66,53,49
+135,1,9,Australia,2/33 (7.2)  ,/ci/engine/match/754749.html,139,66,53
+136,1,4,England,2/57 (14.3)  ,/ci/engine/match/754753.html,9,139,66
+137,1,3,Australia,2/62 (12.5)  ,/ci/engine/match/754757.html,4,9,139
+138,1,8,England,1/83 (20.1)  ,/ci/engine/match/754759.html,3,4,9
+139,1,107,Pakistan,1/34 (7.3)  ,/ci/engine/match/656405.html,8,3,4
+140,1,46,South Africa,1/9 (2.5)  ,/ci/engine/match/656423.html,107,8,3
+141,2,33,U.A.E.,1/29 (6.3)  ,/ci/engine/match/656439.html,46,107,8
+142,2,33,West Indies,1/11 (4.1)  ,/ci/engine/match/656453.html,33,46,107
+143,2,44,Ireland,1/174 (23.2)  ,/ci/engine/match/656465.html,33,33,46
+144,2,38,Zimbabwe,1/21 (6.1)  ,/ci/engine/match/656475.html,44,33,33
+145,1,3,Bangladesh,1/75 (16.3)  ,/ci/engine/match/656485.html,38,44,33
+146,2,1,Australia,1/76 (12.5)  ,/ci/engine/match/656493.html,3,38,44
+147,2,1,Bangladesh,1/95 (15.6)  ,/ci/engine/match/870731.html,1,3,38
+148,1,23,Bangladesh,1/0 (0.2)  ,/ci/engine/match/870733.html,1,1,3
+149,1,25,Bangladesh,1/39 (6.6)  ,/ci/engine/match/870735.html,23,1,1
+150,2,11,South Africa,2/191 (33.4)  ,/ci/engine/match/903593.html,25,23,1
+151,1,12,South Africa,2/59 (12.3)  ,/ci/engine/match/903595.html,11,25,23
+152,2,77,South Africa,1/41 (10.4)  ,/ci/engine/match/903597.html,12,11,25
+153,1,138,South Africa,1/28 (4.5)  ,/ci/engine/match/903599.html,77,12,11
+154,2,7,South Africa,1/22 (4.6)  ,/ci/engine/match/903601.html,138,77,12
+155,1,91,Australia,1/36 (6.4)  ,/ci/engine/match/895807.html,7,138,77
+156,1,59,Australia,1/9 (2.2)  ,/ci/engine/match/895809.html,91,7,138
+157,1,117,Australia,1/15 (4.3)  ,/ci/engine/match/895811.html,59,91,7
+158,2,106,Australia,1/65 (7.6)  ,/ci/engine/match/895813.html,117,59,91
+159,2,8,Australia,1/123 (18.2)  ,/ci/engine/match/895815.html,106,117,59
+160,2,85,New Zealand,1/49 (9.2)  ,/ci/engine/match/1030219.html,8,106,117
+161,2,9,New Zealand,1/21 (7.1)  ,/ci/engine/match/1030221.html,85,8,106
+162,2,154,New Zealand,1/13 (2.5)  ,/ci/engine/match/1030223.html,9,85,8
+163,2,45,New Zealand,1/19 (4.1)  ,/ci/engine/match/1030225.html,154,9,85
+164,1,65,New Zealand,1/40 (9.2)  ,/ci/engine/match/1030227.html,45,154,9
+165,2,122,England,1/13 (3.6)  ,/ci/engine/match/1034819.html,65,45,154
+166,1,8,England,1/14 (2.1)  ,/ci/engine/match/1034821.html,122,65,45
+167,2,55,England,1/13 (1.4)  ,/ci/engine/match/1034823.html,8,122,65
